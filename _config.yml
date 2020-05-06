@@ -2,19 +2,14 @@ theme: jekyll-theme-cayman
 title: Welcome to Dr Monica Pereira's Website
 
 heading: Dr Monica Pereira
-<img src="HS1.jpg" alt="Headshot">
-<H2> Lecturer in Psychology </h2>
-</body>
-<p> I am a lecturer in Psychology at London Metropolitan University. </p>
-<p> I lead modules for level 6 in cyberpsychology and level 4 in study skills. I also teach biopsychology at level 4, 5 and clinical neuroscience at level 6. </p>
 
-<a href="https://www.researchgate.net/profile/Monica_Pereira9"> Here is a link to my ResearchGate profile </a>
+Heading: Lecturer in Psychology
 
-<H3> Current Projects / Titles </H3>
-<h4> Communication Skills Training Intervention Based on Automated Detection of Social Signals</h4>
-<h6>This was my PhD </h6>
+Paragraph: I am a lecturer in Psychology at London Metropolitan University. I lead modules for level 6 in cyberpsychology and level 4 in study skills. I also teach biopsychology at level 4, 5 and clinical neuroscience at level 6.
 
-<h4> Exploring barriers to volunteering in the SIGCHI Community</h4>
-<h6> Deputy Chair and Research Scientist </h6>
+Heading: Current Projects 
+Subheading: Communication Skills Training Intervention Based on Automated Detection of Social Signals
 
-</html>
+Subheading: Exploring barriers to volunteering in the SIGCHI Community
+Deputy Chair and Research Scientist
+
