@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
-<title>Monica Pereira</title>
+title: Welcome to Dr Monica Pereira's Website
 
-<body>
-<h1> Dr Monica Pereira </h1>
+heading: Dr Monica Pereira
 <img src="HS1.jpg" alt="Headshot">
 <H2> Lecturer in Psychology </h2>
 </body>
